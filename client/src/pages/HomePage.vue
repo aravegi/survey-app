@@ -16,7 +16,7 @@
             <p class="q-mb-md">visit me on <a :href="linkedIn"
                 target="_blank">LinkedIn</a></p>
             <q-img
- src="aravegi.jpg"
+ src="~assets/aravegi.jpg"
               style="border-radius:50%;" width="50%" />
             </div>
           </div>
